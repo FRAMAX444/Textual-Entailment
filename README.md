@@ -1,7 +1,5 @@
 # Textual-Entailment
 
-# Textual Entailment Using SNLI
-
 ## Overview
 This project focuses on **Textual Entailment** (Natural Language Inference - NLI) using the **Stanford Natural Language Inference (SNLI)** dataset. The goal is to classify whether a given hypothesis is **entailment, contradiction, or neutral** in relation to a given premise.
 
