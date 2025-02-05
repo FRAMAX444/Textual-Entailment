@@ -23,8 +23,5 @@ Performance is evaluated using **accuracy, precision, recall, and F1-score**. Th
 ## Contribution
 Feel free to contribute! Contact me using the mail you find on my profile.
 
-## License
-This project is licensed under the MIT License.
-
 ## References
 - [SNLI Dataset](https://nlp.stanford.edu/projects/snli/)
