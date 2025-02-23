@@ -18,7 +18,7 @@ The model can be implemented using various deep learning architectures such as:
 - **LSTM-based models**
 
 ## Results
-Performance is evaluated using **accuracy, precision, recall, and F1-score**. The final trained model achieves **X% accuracy** on the SNLI test set.
+Performance is evaluated using **accuracy, precision, recall, and F1-score**. The final trained model achieves **81% accuracy** on the SNLI test set.
 
 ## Contribution
 Feel free to contribute! Contact me using the mail you find on my profile.
